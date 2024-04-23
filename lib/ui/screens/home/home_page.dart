@@ -97,7 +97,7 @@ class HouseCard extends StatelessWidget {
                   const SizedBox(
                     height: 12.0,
                   ),
-                  Text(name, textAlign: TextAlign.start),
+                  Text(address, textAlign: TextAlign.start),
                 ],
               ),
             ),
