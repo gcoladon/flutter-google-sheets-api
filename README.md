@@ -4,7 +4,7 @@ This is a Google-Sheets-powered application, that can get a list of all the data
 
 ## Installation
 
-1. Create a `configs` folder at the root of the project
+1. Create a `configs` folder in the project's lib directory
 2. Create a `secrets.dart` folder inside it
 3. Add the following:
 ```dart
