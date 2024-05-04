@@ -1,5 +1,5 @@
-name: sheets_backend
-description: A new Flutter project.
+name: crutter
+description: CRUD for Flutter, using GSheets backend
 
 publish_to: "none"
 
