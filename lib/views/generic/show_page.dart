@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:sheets_backend/providers/google_sheets_provider.dart';
-import 'package:sheets_backend/misc/string.dart';
+import 'package:crutter/providers/google_sheets_provider.dart';
+import 'package:crutter/misc/string.dart';
 import 'package:logging/logging.dart';
 
 class ShowPage extends StatefulWidget {

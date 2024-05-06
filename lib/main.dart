@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:gsheets/gsheets.dart';
-import 'package:sheets_backend/configs/secrets.dart';
-import 'package:sheets_backend/providers/google_sheets_provider.dart';
-// import 'package:sheets_backend/views/app.dart';
-import 'package:sheets_backend/views/generic.dart';
+import 'package:crutter/configs/secrets.dart';
+import 'package:crutter/providers/google_sheets_provider.dart';
+// import 'package:crutter/views/app.dart';
+import 'package:crutter/views/generic.dart';
 import 'package:logging/logging.dart';
 
 void main() async {

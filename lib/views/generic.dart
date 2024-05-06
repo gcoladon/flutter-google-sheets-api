@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:sheets_backend/providers/google_sheets_provider.dart';
-import 'package:sheets_backend/views/generic/list_page.dart';
-import 'package:sheets_backend/views/generic/new_page.dart';
-import 'package:sheets_backend/views/generic/edit_page.dart';
-import 'package:sheets_backend/views/generic/show_page.dart';
+import 'package:crutter/providers/google_sheets_provider.dart';
+import 'package:crutter/views/generic/list_page.dart';
+import 'package:crutter/views/generic/new_page.dart';
+import 'package:crutter/views/generic/edit_page.dart';
+import 'package:crutter/views/generic/show_page.dart';
 
 class GenericApp extends StatefulWidget {
   final GoogleSheetsProvider provider;

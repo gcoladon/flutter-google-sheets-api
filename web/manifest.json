@@ -1,6 +1,6 @@
 {
-    "name": "sheets_backend",
-    "short_name": "sheets_backend",
+    "name": "crutter",
+    "short_name": "crutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

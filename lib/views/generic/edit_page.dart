@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sheets_backend/providers/google_sheets_provider.dart';
+import 'package:crutter/providers/google_sheets_provider.dart';
 import 'package:logging/logging.dart';
 
 class EditPage extends StatefulWidget {
